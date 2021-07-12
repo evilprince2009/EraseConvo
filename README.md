@@ -22,4 +22,7 @@ After using EraseConvo, you WILL NOT be able to access your messages anymore.
 
 ### If above method doesn't work !  click on "Load unpacked extension..." and select the folder where you downloaded EraseConvo.zip. 
 
-- Download 
+- Download the Source Code [here](https://github.com/evilprince2009/EraseConvo/releases/tag/1.0.0).
+- Extract the ```EraseConvo-1.0.0.zip``` file.
+- Go to ```chrome://extensions``` or ```edge://extensions``` in your browser and hit "Load unpacked extension...".
+- Select the uncompressed ```EraseConvo-1.0.0``` folder and you are good to go!
