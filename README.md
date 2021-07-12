@@ -11,7 +11,7 @@ Open a messenger thread , hit 'Remove' and grab a coffee. While you're gone , th
 
   <img src="./Screenshots/1.png" alt="EraseConvo"/>
   
-After using EraseConvo, you WILL NOT be able to access your messages anymore.
+After using EraseConvo, you won't be able to access your conversations anymore.
 
 
 
