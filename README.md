@@ -17,7 +17,7 @@ After using EraseConvo, you won't be able to access your conversations anymore.
 
 ### Installation
 
-- Download [here](https://github.com/evilprince2009/EraseConvo/releases/tag/1.0.0).
+- Download the ```.crx``` file [here](https://github.com/evilprince2009/EraseConvo/releases/tag/1.0.0).
 - Go to ```chrome://extensions``` or ```edge://extensions``` in your browser.
 - Drop the ```.crx``` file right here and you're done!
 
