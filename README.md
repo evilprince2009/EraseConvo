@@ -1,15 +1,15 @@
 # EraseConvo
 ### A simple Chrome / Edge Chromium extension to unsend all conversations.
 
-![EraseConvo](/icon.png)
- <img src="/icon.png" alt="EraseConvo"  width="50px"/>
+
+ <img src="/icon.png" alt="EraseConvo"  width="100"/>
 
 EraseConvo is a Chrome extension that automatically unsends every message you have in a messenger conversation. Unlike other extensions, which only hide the messages from the user's inbox , EraseConvo will remove messages from the RECEIVER'S inbox as well. 
 
 Open a messenger thread, hit 'Remove', and go get a coffee. While you're gone, the extension will click on every 'unsend message' button, leaving behind a trail of nothing.
 ### This is how it works
 
-  <img src="./Screenshots/1.png" alt="EraseConvo"  width="150px"/>
+  <img src="./Screenshots/1.png" alt="EraseConvo"  width="150"/>
   
 After using EraseConvo, you WILL NOT be able to access your messages anymore.
 
