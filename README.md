@@ -28,4 +28,4 @@ After using EraseConvo, you WILL NOT be able to access your messages anymore.
 - Go to ```chrome://extensions``` or ```edge://extensions``` in your browser and hit "Load unpacked extension...".
 - Select the uncompressed ```EraseConvo-1.0.0``` folder and you are good to go!
 
-[Ibne Nahian](https://www.facebook.com/evilprince2009/).
+### [Ibne Nahian](https://www.facebook.com/evilprince2009/).
