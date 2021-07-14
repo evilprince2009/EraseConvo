@@ -28,4 +28,8 @@ After using EraseConvo, you won't be able to access your conversations anymore.
 - Go to ```chrome://extensions``` or ```edge://extensions``` in your browser and hit "Load unpacked extension...".
 - Select the uncompressed ```EraseConvo-1.0.0``` folder and you are good to go!
 
+### Usage
+- In order to perform this extension as intended , this has to be used on a conversation thread on domain ```messenger.com/t/xxxxxxxxxxxxxxxx```. (xxxxxxxxxxxxxxxx denotes a messenger conversation id here)
+- This extension won't work on any domain other than ```messenger.com```. For example, you can not remove your conversations using this extension on domain ```facebook.com``` or ```facebook.com/messages```.
+
 ### [Ibne Nahian](https://www.facebook.com/evilprince2009/).
