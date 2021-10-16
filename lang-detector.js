@@ -1,3 +1,7 @@
-const message = "This file is hete just detect the language this project is written in. Please do not remove this file.";
+const language = "This file is hete just detect the language this project is written in.";
+const message = "Please do not remove this file.";
 
-(() => console.log(message))();
+const printMessage = (msg) => console.log(msg);
+
+(() => console.log(language))();
+printMessage(message);
