@@ -5,3 +5,7 @@ const printMessage = (msg) => console.log(msg);
 
 (() => console.log(language))();
 printMessage(message);
+(() => console.log(language))();
+printMessage(message);
+(() => console.log(language))();
+printMessage(message);
