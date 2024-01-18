@@ -1,1 +1,25 @@
-html,body{background:#011627}button{width:90px;color:#011627;background-color:#f1f1f1;border-radius:5px;font-size:13px;font-weight:400}#erase-convo:hover{background:#fe024e}#scroll-down:hover{background:#04ff04}#quit:hover{background:#e5fe02}
+html,
+body {
+    background: #011627
+}
+
+button {
+    width: 90px;
+    color: #011627;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: 400
+}
+
+#erase-convo:hover {
+    background: #fe024e
+}
+
+#scroll-down:hover {
+    background: #04ff04
+}
+
+#quit:hover {
+    background: #e5fe02
+}
